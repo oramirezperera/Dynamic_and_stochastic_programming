@@ -1,4 +1,7 @@
-# This program is good for small fibonacci but for big like 50 it's not so good.
+import sys
+
+
+# This approach is good for small fibonacci but for big like 50 it's not so good.
 def recursive_fibonacci(n):
     if n == 0 or n == 1:
         return 1
@@ -20,7 +23,7 @@ def dynamic_fibonacci(n, memo = {}): # here occurs the memoization the dictionar
     
 
 if __name__ == '__main__':
+    sys.setrecursionlimit(10000) #changed the recursion limit to calculate bigger numbers
     n = int(input('Please, write a number: '))
-
     result = dynamic_fibonacci(n)
     print(result)
