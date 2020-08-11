@@ -1,3 +1,4 @@
+# This program is good for small fibonacci but for big like 50 it's not so good.
 def recursive_fibonacci(n):
     if n == 0 or n == 1:
         return 1
