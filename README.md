@@ -12,6 +12,7 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     1. [Class 2 Introduction to Dynamic programming](#class-2-Introduction-to-Dynamic-Programming)
         - [Richard Bellman](#Richard-Bellman)
         - [Memoization](#Memoization)
+    2. [Class 3 Fibonacci numbers](#Class-3-Fibonacci-numbers)
 
 ## First Module Introduction
 
@@ -59,3 +60,8 @@ Dynamic Programming == Mathematics
 
 - Normally is used with a dictionary, the queries can be made in O(1).
 - Changes time for memory space (It's faster but consumes more memory)
+
+### Class 3 Fibonacci numbers
+Can be defined by:
+
+$$ F_n = F_{n-1} + F_{n-2}$$
