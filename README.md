@@ -6,6 +6,9 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
 
 [TOC]
 
+1. [First Module Introduction](#First-Module-Introduction)
+    1. [class 1 course objectives](#class-1-course-objectives)
+
 ## First Module Introduction
 
 ### class 1 course objectives
