@@ -31,7 +31,7 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
 
 #### Richard Bellman
 
-![Richard Bellman](https://en.wikipedia.org/wiki/Richard_E._Bellman#/media/File:Richard_Ernest_Bellman.jpg)
+![Richard Bellman](https://upload.wikimedia.org/wikipedia/en/7/7a/Richard_Ernest_Bellman.jpg)
 
 > Richard Bellman introduced Dynamic Programming
 
