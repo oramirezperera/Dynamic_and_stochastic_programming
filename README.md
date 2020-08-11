@@ -73,3 +73,11 @@ The calculation repeats itself more than once.
 It's exponential O. 
 
 So how can we optimize this implementation, first we use the recursive implementation and adding memoization. This approach has to be much better than only recursive.
+
+In the dynamic implementation, I used a try, except flow control.
+In the dynamic programming, file added the dictionary where you store the previous calculations. Now you can do really big calculations of Fibonacci numbers.
+
+> note
+ Python has a limit for recursion. The error is maximum recursion depth.
+
+So if you want to avoid this error, I imported the sys module, and setting a new recursion limit.
