@@ -65,3 +65,11 @@ Dynamic Programming == Mathematics
 Can be defined by:
 
 $$ F_n = F_{n-1} + F_{n-2}$$
+
+This is a recursive formula, it's easy to implement in code but it's very inefficient.
+
+The calculation repeats itself more than once.
+
+It's exponential O. 
+
+So how can we optimize this implementation, first we use the recursive implementation and adding memoization. This approach has to be much better than only recursive.
