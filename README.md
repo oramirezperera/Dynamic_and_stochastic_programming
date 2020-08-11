@@ -24,7 +24,7 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
 
 #### Richard Bellman
 
-![](https://en.wikipedia.org/wiki/Richard_E._Bellman#/media/File:Richard_Ernest_Bellman.jpg)
+![Richard Bellman](https://en.wikipedia.org/wiki/Richard_E._Bellman#/media/File:Richard_Ernest_Bellman.jpg)
 
 > Richard Bellman introduced Dynamic Programming
 
@@ -45,3 +45,10 @@ Dynamic Programming == Mathematics
 - Optimal Substructure: A global optimal solution can be found using local optimal sub-problems.
 
 - Spliced problems: An optimal solution that can solve the same problem in different occasions.
+
+## Memoization
+
+- Memoization is a technique to save previous results so you don't have to do it again.
+
+- Normally is used with a dictionary, the queries can be made in O(1).
+- Changes time for memory space (It's faster but consumes more memory)
