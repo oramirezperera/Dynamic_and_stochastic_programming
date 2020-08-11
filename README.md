@@ -8,6 +8,10 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
 
 1. [First Module Introduction](#First-Module-Introduction)
     1. [class 1 course objectives](#class-1-course-objectives)
+2. [Second Module Dynamic Programming](#Second-Module-Dynamic-Programming)
+    1. [Class 2 Introduction to Dynamic programming](#class-2-Introduction-to-Dynamic-Programming)
+        - [Richard Bellman](#Richard-Bellman)
+        - [Memoization](#Memoization)
 
 ## First Module Introduction
 
@@ -21,9 +25,9 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
 
 - Learn to create valid computational simulations.
 
-## Second module Dynamic Programming
+## Second Module Dynamic Programming
 
-### Class 2 Introduction to dynamic programming
+### class 2 Introduction to Dynamic Programming
 
 #### Richard Bellman
 
@@ -49,7 +53,7 @@ Dynamic Programming == Mathematics
 
 - Spliced problems: An optimal solution that can solve the same problem in different occasions.
 
-## Memoization
+#### Memoization
 
 - Memoization is a technique to save previous results so you don't have to do it again.
 
