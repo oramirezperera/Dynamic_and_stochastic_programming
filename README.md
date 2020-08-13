@@ -13,7 +13,10 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
         - [Richard Bellman](#Richard-Bellman)
         - [Memoization](#Memoization)
     2. [Class 3 Fibonacci numbers](#Class-3-Fibonacci-numbers)
-
+3. [Third Module Random Walk](#Third-Module-Random-Walk)
+    1. [Class 4 What is Random Walk?](#Class-4-What-is-Random-Walk?)
+        - [Brownian Motion](#Brownian-motion)
+        - [Quantum Cloud Sculpture](#Quantum-Cloud-Sculpture)
 ## First Module Introduction
 
 ### class 1 course objectives
@@ -81,3 +84,39 @@ In the dynamic programming, file added the dictionary where you store the previo
  Python has a limit for recursion. The error is maximum recursion depth.
 
 So if you want to avoid this error, I imported the sys module, and setting a new recursion limit.
+
+## Third Module Random Walk
+
+### class 4 What is random walk?
+
+- It is a kind of simulation that takes a random decision in a set of valid decisions.
+- it is used in a lot of fields of knowledge, when the deterministic decision aren't valid, and you need randomness.
+
+#### Brownian motion
+
+When the microscopic where invented, people saw that the particles moves were random. 
+
+Einstein saw that the pollen motion was made by the individual water molecules, and modeled the motion.
+
+the atomic motion is random.
+
+You can't model this kind of motion in deterministic programming.
+
+Not only at the microscopic level works the random walk.
+
+The smoke can be simulated by this.
+
+The merge of two galaxies can be simulated, using the gravity, and the behavior of each star and other inputs can model possibles outputs.
+
+Our galaxy the Milky Way is on track to collide and merge with Andromeda.
+
+Scientists are making models using random walk to simulate what can be the final result when this happens.
+
+Not only in physics is used the random walk. In market simulations is used too.
+
+#### Quantum Cloud Sculpture
+
+There is a sculpture called Quantum Cloud Sculpture, is located in London, and is next to the O2 (an entertainment district in Greenwich at the southeast of London).
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Antony_Gormley_Quantum_Cloud_2000.jpg/457px-Antony_Gormley_Quantum_Cloud_2000.jpg)
+
