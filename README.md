@@ -15,8 +15,8 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     2. [Class 3 Fibonacci numbers](#Class-3-Fibonacci-numbers)
 3. [Third Module Random Walk](#Third-Module-Random-Walk)
     1. [Class 4 What is Random Walk?](#Class-4-What-is-Random-Walk?)
-        -[Brownian Motion](#Brownian-motion)
-        -[Quantum Cloud Sculpture](#Quantum-Cloud-Sculpture)
+        - [Brownian Motion](#Brownian-motion)
+        - [Quantum Cloud Sculpture](#Quantum-Cloud-Sculpture)
 ## First Module Introduction
 
 ### class 1 course objectives
