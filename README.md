@@ -13,7 +13,10 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
         - [Richard Bellman](#Richard-Bellman)
         - [Memoization](#Memoization)
     2. [Class 3 Fibonacci numbers](#Class-3-Fibonacci-numbers)
-
+3. [Third Module Random Walk](#Third-Module-Random-Walk)
+    1. [Class 4 What is Random Walk?](#Class-4-What-is-Random-Walk?)
+        -[Brownian Motion](#Brownian-motion)
+        -[Quantum Cloud Sculpture](#Quantum-Cloud-Sculpture)
 ## First Module Introduction
 
 ### class 1 course objectives
@@ -82,9 +85,9 @@ In the dynamic programming, file added the dictionary where you store the previo
 
 So if you want to avoid this error, I imported the sys module, and setting a new recursion limit.
 
-## Third module random walks
+## Third Module Random Walk
 
-### class 4 what is random walk?
+### class 4 What is random walk?
 
 - It is a kind of simulation that takes a random decision in a set of valid decisions.
 - it is used in a lot of fields of knowledge, when the deterministic decision aren't valid, and you need randomness.
@@ -110,6 +113,8 @@ Our galaxy the Milky Way is on track to collide and merge with Andromeda.
 Scientists are making models using random walk to simulate what can be the final result when this happens.
 
 Not only in physics is used the random walk. In market simulations is used too.
+
+#### Quantum Cloud Sculpture
 
 There is a sculpture called Quantum Cloud Sculpture, is located in London, and is next to the O2 (an entertainment district in Greenwich at the southeast of London).
 
