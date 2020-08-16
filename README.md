@@ -126,3 +126,21 @@ There is a sculpture called Quantum Cloud Sculpture, is located in London, and i
 [PBS infinite series]([https://www.youtube.com/watch?v=stgYW6M5o4k](https://www.youtube.com/watch?v=stgYW6M5o4k))
 
 [Socratica]([https://www.youtube.com/watch?v=BfS2H1y6tzQ](https://www.youtube.com/watch?v=BfS2H1y6tzQ))
+
+### Class 5 drunkard's walk
+
+is an algorithm for a simulation.
+
+starts at (0,0) in a Cartesian plane where you can move right, left, up, and down with the same probability (25%).
+
+We can generate a Hypothesis, What happens after 10 steps? Are we close or are we far? what happens after 100, 1000, 10000 steps? What happens if we do it in 3 dimensions or 4. What happens if the distribution of probability is not the same?
+
+You can calculate the final distance with the Pythagoras theorem.
+
+the idea of this program is generate three classes.
+
+1. class drunkard named drunk.
+
+2. class abstraction of coordinates called coordinate.
+
+3. class Cartesian plane called field(only in a field you can walk like this haha).
