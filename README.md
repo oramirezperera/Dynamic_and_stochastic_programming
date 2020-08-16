@@ -17,6 +17,7 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     1. [Class 4 What is Random Walk?](#Class-4-What-is-Random-Walk?)
         - [Brownian Motion](#Brownian-motion)
         - [Quantum Cloud Sculpture](#Quantum-Cloud-Sculpture)
+        - [External links for random walk](#External-links-for-random-walk)
 ## First Module Introduction
 
 ### class 1 course objectives
@@ -120,3 +121,8 @@ There is a sculpture called Quantum Cloud Sculpture, is located in London, and i
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Antony_Gormley_Quantum_Cloud_2000.jpg/457px-Antony_Gormley_Quantum_Cloud_2000.jpg)
 
+### External links for Random Walk
+
+[PBS infinite series]([https://www.youtube.com/watch?v=stgYW6M5o4k](https://www.youtube.com/watch?v=stgYW6M5o4k))
+
+[Socratica]([https://www.youtube.com/watch?v=BfS2H1y6tzQ](https://www.youtube.com/watch?v=BfS2H1y6tzQ))
