@@ -22,7 +22,7 @@ def simulate_walk(steps, number_of_tries, kind_of_drunk):
         field.add_drunk(drunk, origin) #adds the drunkard and origin from the function add_drunk from the file field
         simulate_walk = walk(field, drunk, steps) #this uses a auxiliar function
         distances.append(round(simulate_walk, 1)) 
-        
+
     return distances
 
 def main(walk_distances, number_of_tries, kind_of_drunk):
@@ -32,7 +32,7 @@ def main(walk_distances, number_of_tries, kind_of_drunk):
         mean_distance = round(sum(distances) / len(distances), 4)
         max_distance = max(distances)
         min_distance = min(distances)
-        print(f'{kind_of_drunk:__name__} walked randomly {steps} steps')# .__name__ gives us the name of the class of this kind of drunk
+        print(f'{kind_of_drunk.__name__} walked randomly {steps} steps')# .__name__ gives us the name of the class of this kind of drunk
         print(f'the mean distance was {mean_distance}')
         print(f'the max distance was {max_distance}')
         print(f'the minimum distance was {min_distance}')
