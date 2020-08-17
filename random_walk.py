@@ -28,7 +28,7 @@ def simulate_walk(steps, number_of_tries, kind_of_drunk):
 
 def graphics(x, y):
     graphic = figure(title='Drunkard\'s walk', x_axis_label='steps', y_axis_label='distance')
-    graphic.line(x, y, legend='mean distance')
+    graphic.line(x, y, legend_label='mean distance')
 
     show(graphic)
     
