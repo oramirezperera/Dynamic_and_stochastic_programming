@@ -26,17 +26,28 @@ def simulate_walk(steps, number_of_tries, kind_of_drunk):
 
     return distances
 
+def graphics(x, y):
+    graphic = figure(title='Drunkard\'s walk', x_axis_label='steps', y_axis_label='distance')
+    graphic.line(x, y, legend='mean distance')
+
+    show(graphic)
+    
+
 def main(walk_distances, number_of_tries, kind_of_drunk):
+    mean_distances_walk = []
 
     for steps in walk_distances:
         distances = simulate_walk(steps, number_of_tries, kind_of_drunk)
         mean_distance = round(sum(distances) / len(distances), 4)
         max_distance = max(distances)
         min_distance = min(distances)
+        mean_distances_walk.append(mean_distance)
         print(f'{kind_of_drunk.__name__} walked randomly {steps} steps')# .__name__ gives us the name of the class of this kind of drunk
         print(f'the mean distance was {mean_distance}')
         print(f'the max distance was {max_distance}')
         print(f'the minimum distance was {min_distance}')
+
+    graphics(walk_distances, mean_distances_walk)
 
 
 if __name__ == '__main__': # The entry point of the program
