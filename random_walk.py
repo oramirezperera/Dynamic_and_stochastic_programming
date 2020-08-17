@@ -1,6 +1,7 @@
 from drunk_walk import TraditionalDrunk # From drunk_walk file imports the TraditionalDrunk class
 from field import Field # From the field file imports the Field class
 from coordinates import Coordinate # From the coordinates file imports the Coordinate class
+from bokeh.plotting import figure, show
 
 
 def walk(field, drunk, steps):
