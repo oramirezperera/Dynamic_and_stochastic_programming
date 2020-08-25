@@ -2,3 +2,5 @@ __pycache__
 env/
 venv/
 random_walk.html
+*.html
+*txt
