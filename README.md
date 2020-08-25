@@ -143,4 +143,8 @@ the idea of this program is generate three classes.
 
 2. class abstraction of coordinates called coordinate.
 
-3. class Cartesian plane called field(only in a field you can walk like this haha).
+3. class Cartesian plane called field (only in a field you can walk like this haha).
+
+I did all the three classes and made all the program, now if you run it, you can see how far your drunkard\'s has gone.
+
+There are two classes of drunkard\'s Traditional drunkard\'s who is aleatory and Fallen drunkard\'s who is trying to go up in a hill.
