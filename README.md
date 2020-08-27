@@ -23,6 +23,8 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     1. [Class 8 Introduction to Stochastic Programming](#Class-8-Introduction-to-Stochastic-Programming)
         - [Deterministic vs Stochastic programming](#Deterministic-vs-Stochastic-programming)
         - [Examples](#Examples)
+    2. [Class 9 Probabilities calculation](#Class-9-Probabilities-calculation)
+        - [Probabilities](#Probabilities)
 
 
 ## First Module Introduction
@@ -184,3 +186,17 @@ The way that we see the problem is important because that affects the solution t
 
 We have to know the population.
 
+### Class 9 Probabilities calculation
+
+#### Probabilities
+
+- Probabilities are a measure of how likely is an event to occur in the future and the probability of an event is a number between 0 and 1.
+- A probability of 0 indicates an impossibility of the event.
+- A probability of 1 indicates a certainty.
+- When we use probability we ask what fraction of all of the possible events has the properties that we are looking for.
+- Because of that is important to calculate all the possibilities that has an event, so we can understand their probability.
+- The probability of an event to occur or not is 1
+- P(A) + P(notA) = 1. Compliment law.
+- P(A and B) =  P(A) * P(B). Only if the two events are independent. Multiplication law. It always be less than the probability of only one of those.
+- P(A or B) = P(A) + P(B). If they are mutually exclusive events.
+- P(A or B) = P(A) + P(B)  - P(A and B). If the are not mutually exclusive events. Addition law.
