@@ -79,11 +79,7 @@ if __name__ == '__main__': # The entry point of the program
     walk_distances = [10, 100, 1000, 10000] # number of steps
     number_of_tries = 100 # how many times the simulation will run
 
-<<<<<<< HEAD
     # main(walk_distances, number_of_tries, FallenDrunk)
+    
     main(walk_distances, number_of_tries, TraditionalDrunk)
 
-=======
-    #main(walk_distances, number_of_tries, FallenDrunk)
-    main(walk_distances, number_of_tries, TraditionalDrunk)
->>>>>>> drunk_walk
