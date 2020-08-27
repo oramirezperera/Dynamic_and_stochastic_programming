@@ -18,6 +18,13 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
         - [Brownian Motion](#Brownian-motion)
         - [Quantum Cloud Sculpture](#Quantum-Cloud-Sculpture)
         - [External links for random walk](#External-links-for-random-walk)
+    2. [Class 5 Drunkard's Walk](#Class-5-Drunkard's-Walk)
+4. [Fourth Module Stochastic Programs](#Fourth-Module-Stochastic-Programs)
+    1. [Class 8 Introduction to Stochastic Programming](#Class-8-Introduction-to-Stochastic-Programming)
+        - [Deterministic vs Stochastic programming](#Deterministic-vs-Stochastic-programming)
+        - [Examples](#Examples)
+
+
 ## First Module Introduction
 
 ### class 1 course objectives
@@ -148,3 +155,32 @@ the idea of this program is generate three classes.
 I did all the three classes and made all the program, now if you run it, you can see how far your drunkard\'s has gone.
 
 There are two classes of drunkard\'s Traditional drunkard\'s who is aleatory and Fallen drunkard\'s who is trying to go up in a hill.
+
+## Fourth Module Stochastic Programs
+
+### Class 8 Introduction to Stochastic programming
+
+#### Deterministic vs Stochastic programming
+
+- A program is deterministic when if you use the same input you get the same output.
+- Deterministic programming is very important but not all problems can be solved with this method.
+- Stochastic programming lets us to introduce randomness to our programs, so we can create simulation for solving different problems.
+- Stochastic programs use as advantage that a problem can have probabilistic distribution or it can be estimated.
+
+#### Examples 
+
+1. Traffic handling.
+2. Fleet schedule.
+3. Physics simulations.
+4. Financial simulations.
+5. Drugs and medicine effects simulations.
+6. Self-driving car development.
+
+Stochastic programming uses probabilistic distributions that could be pre-defined or estimated via statistical inference.
+
+Another example could be understanding the pattern of use of a traffic light intersection so you can choose better when will be red or green the traffic light.
+
+The way that we see the problem is important because that affects the solution that we will give it.
+
+We have to know the population.
+
