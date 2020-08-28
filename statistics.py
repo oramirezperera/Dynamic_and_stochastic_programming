@@ -22,6 +22,11 @@ def standard_deviation(X):
 if __name__ == '__main__':
     X = [random.randint(1, 20) for i in range(20)]
     mu = mean(X)
+    Var = variance(X)
+    sigma = standard_deviation(X)
 
-    print(X)
-    print(mu)
+
+    print(f'X array is: {X}')
+    print(f'Mean = {mu}')
+    print(f'Variance = {Var}')
+    print(f'Standard deviation = {sigma}')
