@@ -25,7 +25,9 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
         - [Examples](#Examples)
     2. [Class 9 Probabilities calculation](#Class-9-Probabilities-calculation)
         - [Probabilities](#Probabilities)
-
+    3. [Class 12 Statistical inference](#Class-12-Statistical-inference)
+        - [Law of the large numbers](#Law-of-the-large-numbers)
+        - [Gambler's fallacy](#Gambler's-fallacy)
 
 ## First Module Introduction
 
@@ -200,3 +202,20 @@ We have to know the population.
 - P(A and B) =  P(A) * P(B). Only if the two events are independent. Multiplication law. It always be less than the probability of only one of those.
 - P(A or B) = P(A) + P(B). If they are mutually exclusive events.
 - P(A or B) = P(A) + P(B)  - P(A and B). If the are not mutually exclusive events. Addition law.
+
+### Class 12 Statistical inference
+
+- With simulations we can calculate the chances (probability) of complex events by knowing the chances of simple events.
+- What happens when we don't know the probabilities of simple events?
+- The statistical inference method allows us to infer the properties of a population based on a random sample.
+
+If you make a bias in the sample you will get biased results.
+
+#### Law of the large numbers
+
+- In an independent test, with the same p probabilities of an output, the fraction of deviation of p gets closer to 0 as you get more and more trials of the test.
+
+#### Gambler's Fallacy 
+
+- Gambler's fallacy points out that after an extreme event, less extreme events are going to happen to even out the mean.
+- the regression to the mean tells us that after an extreme random event, the next event is likely to be less extreme.
