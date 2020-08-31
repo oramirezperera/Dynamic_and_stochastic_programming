@@ -219,3 +219,50 @@ If you make a bias in the sample you will get biased results.
 
 - Gambler's fallacy points out that after an extreme event, less extreme events are going to happen to even out the mean.
 - the regression to the mean tells us that after an extreme random event, the next event is likely to be less extreme.
+
+### Class 13 Mean
+
+- First step in the statistical inference.
+- Is a measure of the central tendency.
+- Commonly known as average.
+- The population mean is denoted by the letter mu(μ). And the sample mean is denoted by X bar ({\displaystyle {\bar {x}}}{\bar {x}})
+
+The mean is the sum of all of the numbers divided by the amount of numbers.
+
+{\displaystyle {\bar {x}}={\frac {1}{n}}\left(\sum *{i=1}^{n}{x*{i}}\right)={\frac {x_{1}+x_{2}+\cdots +x_{n}}{n}}}
+
+### Class 14 Variance and Standard Deviation
+
+#### Variance
+
+- Measures the how far a set of numbers is spread out from their average value.
+- The mean gives us an idea of where are the values, the variance tells us how spread are the values.
+- The variance is always related to the mean.
+
+{\displaystyle \operatorname {Var} (X)={\frac {1}{n}}\sum *{i=1}^{n}(x*{i}-\mu )^{2},}
+
+#### Standard Deviation
+
+- Standard Deviation is the square root of the variance.
+- Allows us to understand the spread and it has to be related to the mean.
+- One advantage over the Variance is that the Standard Deviation is in the same units of the mean.
+
+### Class 15 Normal Distribution
+
+- Is one of the most common distributions.
+- It is completely defined by its mean and its standard deviation.
+- Lets us calculate the confidence interval with the empiric rule.
+
+{\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}
+
+#### Empiric Rule
+
+- Also known as 68-95-99.7 rule
+- Points out that the values of a normal distribution are distributed in these three sigmas.
+- Allows us to calculate probabilities with the density of the normal distribution.
+
+Pr(μ - 1σ ≤ X ≤ μ + 1σ) approx = 0.6827
+
+Pr(μ - 2σ ≤ X ≤ μ + 2σ) approx= 0.9545
+
+Pr(μ - 3σ ≤ X ≤ μ + 3σ) approx= 0.9973
