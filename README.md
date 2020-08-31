@@ -282,3 +282,9 @@ Pr(μ - 3σ ≤ X ≤ μ + 3σ) approx= 0.9973
 - Allow us to turn deterministic problems in stochastic problems.
 
 - Is used in a lot of areas, in engineering, biology, and laws.
+
+external links
+
+[Examples]([https://www.youtube.com/watch?v=9M_KPXwnrlE&feature=youtu.be](https://www.youtube.com/watch?v=9M_KPXwnrlE&feature=youtu.be))
+
+[Short lesson spanish]([https://www.youtube.com/watch?v=WJjDr67frtM](https://www.youtube.com/watch?v=WJjDr67frtM))
