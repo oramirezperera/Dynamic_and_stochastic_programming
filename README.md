@@ -266,3 +266,19 @@ Pr(μ - 1σ ≤ X ≤ μ + 1σ) approx = 0.6827
 Pr(μ - 2σ ≤ X ≤ μ + 2σ) approx= 0.9545
 
 Pr(μ - 3σ ≤ X ≤ μ + 3σ) approx= 0.9973
+
+### Class 16 What are Montecarlo Simulations?
+
+- Created by Stanislaw Ulam and John Von Neumann.
+
+- Stanislaw Ulam was sick and bored while playing solitaire he thought, What are the probabilities of winning a Solitaire game?
+
+- He thought it was easier to play a lot of solitaire Games and then calculate the probabilities.
+
+- This was invented in the Manhattan project.
+
+- Allows us to create simulations to predict the output of a problem.
+
+- Allow us to turn deterministic problems in stochastic problems.
+
+- Is used in a lot of areas, in engineering, biology, and laws.
