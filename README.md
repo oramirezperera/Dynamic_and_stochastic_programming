@@ -28,6 +28,13 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     3. [Class 12 Statistical inference](#Class-12-Statistical-inference)
         - [Law of the large numbers](#Law-of-the-large-numbers)
         - [Gambler's fallacy](#Gambler's-fallacy)
+    4. [Class 13 Mean](#Class-13-Mean)
+    5. [Class 14 Variance and Standard Deviation](#Class-14-Variance-and-Standard-Deviation)
+        - [Variance](#Variance)
+        - [Standard-Deviation](Standard-Deviation)
+    6. [Class 15 Normal Distribution](#Class-15-Normal-Distribution)
+        - [Empiric Rule](#Empiric-Rule)
+    7. [Class 16 What are Montecarlo Simulations](#Class-16-What-are-Montecarlo-Simulations)
 
 ## First Module Introduction
 
