@@ -35,6 +35,9 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     6. [Class 15 Normal Distribution](#Class-15-Normal-Distribution)
         - [Empiric Rule](#Empiric-Rule)
     7. [Class 16 What are Montecarlo Simulations](#Class-16-What-are-Montecarlo-Simulations)
+5. [Fourth Module Sampling and Confidence Interval](#Fourth-Module-Sampling-and-Confidence-Interval)
+    1. [Class 20 Sampling](#Class-20-Sampling)
+    2. [Class 21 Central Limit Theorem](#Class-21-Central-Limit-Theorem)
 
 ## First Module Introduction
 
