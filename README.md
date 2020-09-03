@@ -37,6 +37,8 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
     7. [Class 16 What are Montecarlo Simulations](#Class-16-What-are-Montecarlo-Simulations)
 5. [Fourth Module Sampling and Confidence Interval](#Fourth-Module-Sampling-and-Confidence-Interval)
     1. [Class 20 Sampling](#Class-20-Sampling)
+    2. [Class 21 Central Limit Theorem](#Class-21-Central-Limit-Theorem)
+
 ## First Module Introduction
 
 ### class 1 course objectives
@@ -297,7 +299,22 @@ external links
 
 [Short lesson spanish]([https://www.youtube.com/watch?v=WJjDr67frtM](https://www.youtube.com/watch?v=WJjDr67frtM))
 
-## Fourth Module Sampling and Confidence Intervals
-
 ### Class 20 Sampling
+
+- There are occasion where we don't have access to all the population that we want to study.
+- One of the greatest discoveries of statistics is that random sampling tend to have the same properties as the objective population.
+- In a random sampling any member of the population has the same probability to be picked.
+- in a stratified sampling, we take into consideration the characteristics of the population so we can subdivide it and then take samples of each subgroup.
+    - This increase the probability that our sample be a good representation of the population.
+
+### Class 21 Limit Central Theorem
+
+- Is one of the most important theorems in statistics.
+- Establish that random samples of any distribution are going to have a normal distribution.
+- Allowing to understand any distribution as the normal distribution of their means and that allow us to use all the things that we know about normal distributions.
+- If our samples are bigger, bigger will be the similarity with the normal distribution.
+- If our our samples are bigger, our standard deviation will be smaller.
+
+Webpage with visualization of the [Central Limit theorem](http://195.134.76.37/applets/AppletCentralLimit/Appl_CentralLimit2.html)
+Class about Central limit Theorem [KhanAcademy](https://www.youtube.com/watch?v=JNm3M9cqWyc)
 
