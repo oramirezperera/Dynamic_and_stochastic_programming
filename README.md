@@ -295,3 +295,23 @@ external links
 [Examples]([https://www.youtube.com/watch?v=9M_KPXwnrlE&feature=youtu.be](https://www.youtube.com/watch?v=9M_KPXwnrlE&feature=youtu.be))
 
 [Short lesson spanish]([https://www.youtube.com/watch?v=WJjDr67frtM](https://www.youtube.com/watch?v=WJjDr67frtM))
+
+### Class 20 Sampling
+
+- There are occasion where we don't have access to all the population that we want to study.
+- One of the greatest discoveries of statistics is that random sampling tend to have the same properties as the objective population.
+- In a random sampling any member of the population has the same probability to be picked.
+- in a stratified sampling, we take into consideration the characteristics of the population so we can subdivide it and then take samples of each subgroup.
+    - This increase the probability that our sample be a good representation of the population.
+
+### Class 21 Limit Central Theorem
+
+- Is one of the most important theorems in statistics.
+- Establish that random samples of any distribution are going to have a normal distribution.
+- Allowing to understand any distribution as the normal distribution of their means and that allow us to use all the things that we know about normal distributions.
+- If our samples are bigger, bigger will be the similarity with the normal distribution.
+- If our our samples are bigger, our standard deviation will be smaller.
+
+Webpage with visualization of the [Central Limit theorem](http://195.134.76.37/applets/AppletCentralLimit/Appl_CentralLimit2.html)
+Class about Central limit Theorem [KhanAcademy](https://www.youtube.com/watch?v=JNm3M9cqWyc)
+
