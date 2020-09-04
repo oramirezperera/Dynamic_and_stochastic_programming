@@ -38,7 +38,9 @@ Notes and programs from Platzi\'s Dynamic and stochastic programming with Python
 5. [Fourth Module Sampling and Confidence Interval](#Fourth-Module-Sampling-and-Confidence-Interval)
     1. [Class 20 Sampling](#Class-20-Sampling)
     2. [Class 21 Central Limit Theorem](#Class-21-Central-Limit-Theorem)
-
+    3. [Class 22 Linear Regresion](#Linear-Regresion)
+6. [Fifth Module Conclusions](#Fifth-Module-Conclusions)
+    1. [Class 23 Conclusions](#Class-23-Conclusions)
 ## First Module Introduction
 
 ### class 1 course objectives
@@ -317,4 +319,20 @@ external links
 
 Webpage with visualization of the [Central Limit theorem](http://195.134.76.37/applets/AppletCentralLimit/Appl_CentralLimit2.html)
 Class about Central limit Theorem [KhanAcademy](https://www.youtube.com/watch?v=JNm3M9cqWyc)
+
+### Class 22 Linear Regresion
+.
+
+- Allow us to approximate a function to a set of data in a experimental way.
+- Is not only for linear functions, has variants that allow us to approximate any polynomial function
+
+## Sixth Module Conclusions
+
+### Class 23 Conclusions
+
+
+- Dynamic programming allow us to optimize problems that have a optimal substructure and recursive subproblems
+- Computers can solve deterministic and stochastic problems.
+- We can generate computer simulations to answer real life questions.
+- Statistical inference allow us to have confidence in the outputs of our simulations.
 
